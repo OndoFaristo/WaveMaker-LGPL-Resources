@@ -1,6 +1,6 @@
 open_source_license.txt
 
-System Dependencies Bundle for VMware WaverMaker 6.3.1
+System Dependencies Bundle for VMware WaverMaker 6.3
 
 ===========================================================================
 
@@ -43,288 +43,565 @@ GNU Lesser General Public License, V2.1 are applicable to the following componen
 
 >>> ace.ajax.org-0.1.6
 
-[PLEASE NOTE:  VMWARE, INC. ELECTS TO USE AND DISTRIBUTE THIS COMPONENT UNDER THE TERMS OF THE LGPL 2.1.  PLEASE SEE THE APPENDIX TO REVIEW THE FULL TEXT OF THE LGPL 2.1.  THE ORIGINAL LICENSE TERMS ARE REPRODUCED BELOW ONLY AS A REFERENCE.]
-
-
-Version: MPL 1.1/GPL 2.0/LGPL 2.1
-
-The contents of this file are subject to the Mozilla Public License Version
-1.1 (the "License"); you may not use this file except in compliance with
-the License. You may obtain a copy of the License at
-http://www.mozilla.org/MPL/
-
-Software distributed under the License is distributed on an "AS IS" basis,
-WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-for the specific language governing rights and limitations under the
-License.
-
-The Original Code is Ajax.org Code Editor (ACE).
-
-The Initial Developer of the Original Code is
-Ajax.org B.V.
-Portions created by the Initial Developer are Copyright (C) 2010
-the Initial Developer. All Rights Reserved.
-
-Contributor(s):
-      Fabian Jakobs <fabian AT ajax DOT org>
-
-Alternatively, the contents of this file may be used under the terms of
-either the GNU General Public License Version 2 or later (the "GPL"), or
-the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-in which case the provisions of the GPL or the LGPL are applicable instead
-of those above. If you wish to allow use of your version of this file only
-under the terms of either the GPL or the LGPL, and not to allow others to
-use your version of this file under the terms of the MPL, indicate your
-decision by deleting the provisions above and replace them with the notice
-and other provisions required by the GPL or the LGPL. If you do not delete
-the provisions above, a recipient may use your version of this file under
+[PLEASE NOTE:  VMWARE, INC. ELECTS TO USE AND DISTRIBUTE THIS COMPONENT UNDER THE TERMS OF THE LGPL 2.1.  PLEASE SEE THE APPENDIX TO REVIEW THE FULL TEXT OF THE LGPL 2.1.  THE ORIGINAL LICENSE TERMS ARE REPRODUCED BELOW ONLY AS A REFERENCE.]
+
+
+
+
+
+Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+
+
+The contents of this file are subject to the Mozilla Public License Version
+
+1.1 (the "License"); you may not use this file except in compliance with
+
+the License. You may obtain a copy of the License at
+
+http://www.mozilla.org/MPL/
+
+
+
+Software distributed under the License is distributed on an "AS IS" basis,
+
+WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+
+for the specific language governing rights and limitations under the
+
+License.
+
+
+
+The Original Code is Ajax.org Code Editor (ACE).
+
+
+
+The Initial Developer of the Original Code is
+
+Ajax.org B.V.
+
+Portions created by the Initial Developer are Copyright (C) 2010
+
+the Initial Developer. All Rights Reserved.
+
+
+
+Contributor(s):
+
+      Fabian Jakobs <fabian AT ajax DOT org>
+
+
+
+Alternatively, the contents of this file may be used under the terms of
+
+either the GNU General Public License Version 2 or later (the "GPL"), or
+
+the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+
+in which case the provisions of the GPL or the LGPL are applicable instead
+
+of those above. If you wish to allow use of your version of this file only
+
+under the terms of either the GPL or the LGPL, and not to allow others to
+
+use your version of this file under the terms of the MPL, indicate your
+
+decision by deleting the provisions above and replace them with the notice
+
+and other provisions required by the GPL or the LGPL. If you do not delete
+
+the provisions above, a recipient may use your version of this file under
+
 the terms of any one of the MPL, the GPL or the LGPL.
 
 
 >>> hibernate-3.2.4
 
-This software is distributed under the terms of the FSF Lesser Gnu Public License (see lgpl.txt).
-
-
-This product includes software developed by the Apache Software 
-Foundation (http://www.apache.org/)
-
-ADDITIONAL LICENSE INFORMATION:
-
-
->jta.jar 
->jdbc2_0-stdext.jar
->jaas.jar
->connector.jar
-> \hibernate-3.2.4.ga.tar.gz\hibernate-3.2.4.ga.tar\hibernate-3.2\lib\jta.licence.txt
-  
-Sun Microsystems, Inc. 
-Binary Code License Agreement
-
-READ THE TERMS OF THIS AGREEMENT AND ANY PROVIDED SUPPLEMENTAL LICENSE TERMS (COLLECTIVELY "AGREEMENT") CAREFULLY BEFORE OPENING THE SOFTWARE MEDIA PACKAGE.  BY OPENING THE SOFTWARE MEDIA PACKAGE, YOU AGREE TO THE TERMS OF THIS AGREEMENT.  IF YOU ARE ACCESSING THE SOFTWARE ELECTRONICALLY, INDICATE YOUR ACCEPTANCE OF THESE TERMS BY SELECTING THE "ACCEPT" BUTTON AT THE END OF THIS AGREEMENT.  IF YOU DO NOT AGREE TO ALL THESE TERMS, PROMPTLY RETURN THE UNUSED SOFTWARE TO YOUR PLACE OF PURCHASE FOR A REFUND OR, IF THE SOFTWARE IS ACCESSED ELECTRONICALLY, SELECT THE "DECLINE" BUTTON AT THE END OF THIS AGREEMENT. 
-
-1.  LICENSE TO USE.  Sun grants you a non-exclusive and non-transferable license for the internal use only of the accompanying software and documentation and any error corrections provided by Sun (collectively "Software"), by the number of users and the class of computer hardware for which the corresponding fee has been paid. 
-
-2.  RESTRICTIONS.  Software is confidential and copyrighted. Title to Software and all associated intellectual property rights is retained by Sun and/or its licensors.  Except as specifically authorized in any Supplemental License Terms, you may not make copies of Software, other than a single copy of Software for archival purposes.  Unless enforcement is prohibited by applicable law, you may not modify, decompile, or reverse engineer Software.  Licensee acknowledges that Licensed Software is not designed or intended for use in the design, construction, operation or maintenance of any nuclear facility. Sun Microsystems, Inc. disclaims any express or implied warranty of fitness for such uses.   No right, title or interest in or to any trademark, service mark, logo or trade name of Sun or its licensors is granted under this Agreement. 
-
-3. LIMITED WARRANTY.  Sun warrants to you that for a period of ninety (90) days from the date of purchase, as evidenced by a copy of the receipt, the media on which Software is furnished (if any) will be free of defects in materials and workmanship under normal use.  Except for the foregoing, Software is provided "AS IS".  Your exclusive remedy and Sun's entire liability under this limited warranty will be at Sun's option to replace Software media or refund the fee paid for Software. 
-
-4.  DISCLAIMER OF WARRANTY.  UNLESS SPECIFIED IN THIS AGREEMENT, ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT ARE DISCLAIMED, EXCEPT TO THE EXTENT THAT THESE DISCLAIMERS ARE HELD TO BE LEGALLY INVALID. 
-
-5.  LIMITATION OF LIABILITY.  TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT WILL SUN OR ITS LICENSORS BE LIABLE FOR ANY LOST REVENUE, PROFIT OR DATA, OR FOR SPECIAL, INDIRECT, CONSEQUENTIAL, INCIDENTAL OR PUNITIVE DAMAGES, HOWEVER CAUSED REGARDLESS OF THE THEORY OF LIABILITY, ARISING OUT OF OR RELATED TO THE USE OF OR INABILITY TO USE SOFTWARE, EVEN IF SUN HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  In no event will Sun's liability to you, whether in contract, tort (including negligence), or otherwise, exceed the amount paid by you for Software under this Agreement.  The foregoing limitations will apply even if the above stated warranty fails of its essential purpose. 
-
-6.  Termination.  This Agreement is effective until terminated.  You may terminate this Agreement at any time by destroying all copies of Software.  This Agreement will terminate immediately without notice from Sun if you fail to comply with any provision of this Agreement.  Upon Termination, you must destroy all copies of Software. 
-
-7. Export Regulations. All Software and technical data delivered under this Agreement are subject to US export control laws and may be subject to export or import regulations in other countries.  You agree to comply strictly with all such laws and regulations and acknowledge that you have the responsibility to obtain such licenses to export, re-export, or import as may be required after delivery to you. 
-
-8.   U.S. Government Restricted Rights.  If Software is being acquired by or on behalf of the U.S. Government or by a U.S. Government prime contractor or subcontractor (at any tier), then the Government's rights in Software and accompanying documentation will be only as set forth in this Agreement; this is in accordance with 48 CFR 227.7201 through 227.7202-4 (for Department of Defense (DOD) acquisitions) and with 48 CFR 2.101 and 12.212 (for non-DOD acquisitions). 
-
-9.  Governing Law.  Any action related to this Agreement will be governed by California law and controlling U.S. federal law.  No choice of law rules of any jurisdiction will apply. 
-
-10.  Severability. If any provision of this Agreement is held to be unenforceable, this Agreement will remain in effect with the provision omitted, unless omission would frustrate the intent of the parties, in which case this Agreement will immediately terminate. 
-
-11.  Integration.  This Agreement is the entire agreement between you and Sun relating to its subject matter.  It supersedes all prior or contemporaneous oral or written communications, proposals, representations and warranties and prevails over any conflicting or additional terms of any quote, order, acknowledgment, or other communication between the parties relating to its subject matter during the term of this Agreement.  No modification of this Agreement will be binding, unless in writing and signed by an authorized representative of each party. 
-
-JAVATM INTERFACE CLASSES 
-JAVA TRANSACTION API (JTA), VERSION 1.0.1B, MAINTENANCE RELEASE
-SUPPLEMENTAL LICENSE TERMS
-
-These supplemental license terms ("Supplemental Terms") add to or modify the terms of the Binary Code License Agreement (collectively, the "Agreement"). Capitalized terms not defined in these Supplemental Terms shall have the same meanings ascribed to them in the Agreement. These Supplemental Terms shall supersede any inconsistent or conflicting terms in the Agreement, or in any license contained within the Software. 
-
-1. Software Internal Use and Development License Grant. Subject to the terms and conditions of this Agreement, including, but not limited to Section 3 (Java Technology Restrictions) of these Supplemental Terms, Sun grants you a non-exclusive, non-transferable, limited license to reproduce internally and use internally the binary form of the Software, complete and unmodified, for the sole purpose of designing, developing and testing your Java applets and applications ("Programs"). 
-
-2. License to Distribute Software.  In addition to the license granted in Section 1 (Software Internal Use and Development License Grant) of these Supplemental Terms, subject to the terms and conditions of this Agreement, including but not limited to Section 3 (Java Technology Restrictions), Sun grants you a non-exclusive, non-transferable, limited license to reproduce and distribute the Software in binary form only, provided that you (i) distribute the Software complete and unmodified and only bundled as part of your Programs, (ii) do not distribute additional software intended to replace any component(s) of the Software, (iii) do not remove or alter any proprietary legends or notices contained in the Software, (iv) only distribute the Software subject to a license agreement that protects Sun's interests consistent with the terms contained in this Agreement, and (v) agree to defend and indemnify Sun and its licensors from and against any damages, costs, liabilities, settlement amounts and/or expenses (including attorneys' fees) incurred in connection with any claim, lawsuit or action by any third party that arises or results from the use or distribution of any and all Programs and/or Software. 
-
-3. Java Technology Restrictions. You may not modify the Java Platform Interface ("JPI", identified as classes contained within the "java" package or any subpackages of the "java" package), by creating additional classes within the JPI or otherwise causing the addition to or modification of the classes in the JPI.  In the event that you create an additional class and associated API(s) which (i) extends the functionality of the Java Platform, and (ii) is exposed to third party software developers for the purpose of developing additional software which invokes such additional API, you must promptly publish broadly an accurate specification for such API for free use by all developers. You may not create, or authorize your licensees to create additional classes, interfaces, or subpackages that are in any way identified as "java", "javax", "sun" or similar convention as specified by Sun in any naming convention designation. 
-
-4. Trademarks and Logos. You acknowledge and agree as between you and Sun that Sun owns the SUN, SOLARIS, JAVA, JINI, FORTE, and iPLANET trademarks and all SUN, SOLARIS, JAVA, JINI, FORTE, and iPLANET-related trademarks, service marks, logos and other brand designations ("Sun Marks"), and you agree to comply with the Sun Trademark and Logo Usage Requirements currently located at http://www.sun.com/policies/trademarks. Any use you make of the Sun Marks inures to Sun's benefit. 
-
-5. Source Code. Software may contain source code that is provided solely for reference purposes pursuant to the terms of this Agreement.  Source code may not be redistributed unless expressly provided for in this Agreement. 
-
-6. Termination for Infringement.  Either party may terminate this Agreement immediately should any Software become, or in either party's opinion be likely to become, the subject of a claim of infringement of any intellectual property right. 
-
-For inquiries please contact: Sun Microsystems, Inc. 4150 Network Circle, Santa Clara, California 95054. 
-
-
-
-> \hibernate-3.2.4.ga.tar.gz\hibernate-3.2.4.ga.tar\hibernate-3.2\lib\apache.license.txt
-
-====================================================================
-
-The Apache Software License, Version 1.1
-
-Copyright (c) 1999-2001 The Apache Software Foundation.  All rights
-reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions
-are met:
-
-1. Redistributions of source code must retain the above copyright
-notice, this list of conditions and the following disclaimer.
-
-2. Redistributions in binary form must reproduce the above copyright
-notice, this list of conditions and the following disclaimer in
-the documentation and/or other materials provided with the
-distribution.
-
-3. The end-user documentation included with the redistribution, if
-any, must include the following acknowlegement:
-"This product includes software developed by the
-Apache Software Foundation (http://www.apache.org/)."
-Alternately, this acknowlegement may appear in the software itself,
-if and wherever such third-party acknowlegements normally appear.
-
-4. The names "The Jakarta Project", "Commons", and "Apache Software
-Foundation" must not be used to endorse or promote products derived
-from this software without prior written permission. For written
-permission, please contact apache@apache.org.
-
-5. Products derived from this software may not be called "Apache"
-nor may "Apache" appear in their names without prior written
-permission of the Apache Group.
-
-THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED
-WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
-OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED.  IN NO EVENT SHALL THE APACHE SOFTWARE FOUNDATION OR
-ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF
-USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
-ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
-OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
-SUCH DAMAGE.
-
-
-> \hibernate-3.2.4.ga.tar.gz\hibernate-3.2.4.ga.tar\hibernate-3.2\lib\apache.license-2.0.txt
-
-License: Apache: 2.0
-
-> \hibernate-3.2.4.ga.tar.gz\hibernate-3.2.4.ga.tar\hibernate-3.2\lib\antlr-2.7.6.jar 
-
-SOFTWARE RIGHTS
-$Id: antlr.license.txt 3890 2004-06-03 16:31:32Z steveebersole $
-
-ANTLR 1989-2003 Developed by jGuru.com, 
-http://www.ANTLR.org  and http://www.jGuru.com
-
-We reserve no legal rights to the ANTLR--it is fully in the
-public domain. An individual or company may do whatever
-they wish with source code distributed with ANTLR or the
-code generated by ANTLR, including the incorporation of
-ANTLR, or its output, into commerical software.
-
-We encourage users to develop software with ANTLR. However,
-we do ask that credit is given to us for developing
-ANTLR. By "credit", we mean that if you use ANTLR or
-incorporate any source code into one of your programs
-(commercial product, research project, or otherwise) that
-you acknowledge this fact somewhere in the documentation,
-research report, etc... If you like ANTLR and have
-developed a nice tool with the output, please mention that
-you developed it using ANTLR. In addition, we ask that the
-headers remain intact in our source code. As long as these
-guidelines are kept, we expect to continue enhancing this
-system and expect to make other tools available as they are
-completed.
-
-The primary ANTLR guy:
-
-Terence Parr
-http://www.jGuru.com
-parrt@jguru.com
-
-
->hibernate-3.2.4.ga.tar.gz\hibernate-3.2.4.ga.tar\hibernate-3.2\lib\xml-apis.jar\license\
-
-This W3C work (including software, documents, or other related
-items) is being provided by the copyright holders under the
-following license. By obtaining, using and/or copying this work,
-you (the licensee) agree that you have read, understood, and will
-comply with the following terms and conditions:
-Permission to use, copy, modify, and distribute this software
-and its documentation, with or without modification, for any
-purpose and without fee or royalty is hereby granted, provided that
-you include the following on ALL copies of the software and
-documentation or portions thereof, including modifications, that
-you make:
-
-The full text of this NOTICE in a location viewable to users of
-the redistributed or derivative work.
-
-Any pre-existing intellectual property disclaimers, notices, or
-terms and conditions. If none exist, a short notice of the
-following form (hypertext is preferred, text is permitted) should
-be used within the body of any redistributed or derivative code:
-"Copyright  [$date-of-software] World Wide Web Consortium, (Massachusetts Institute of
-Technology, Institut National de
-Recherche en Informatique et en Automatique, Keio University). All Rights Reserved.
-http://www.w3.org/Consortium/Legal/"
-
-Notice of any changes or modifications to the W3C files,
-including the date changes were made. (We recommend you provide 
-URIs to the location from which the code is derived.)
-
-THIS SOFTWARE AND DOCUMENTATION IS PROVIDED "AS IS," AND
-COPYRIGHT HOLDERS MAKE NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO, WARRANTIES OF
-MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE
-USE OF THE SOFTWARE OR DOCUMENTATION WILL NOT INFRINGE ANY THIRD
-PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.
-COPYRIGHT HOLDERS WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT,
-SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF ANY USE OF THE
-SOFTWARE OR DOCUMENTATION.
-
-The name and trademarks of copyright holders may NOT be used in
-advertising or publicity pertaining to the software without
-specific, written prior permission. Title to copyright in this
-software and any associated documentation will at all times remain
-with copyright holders.
-
-
-> hibernate-3.2.4.ga.tar.gz\hibernate-3.2.4.ga.tar\hibernate-3.2\lib\dom4j-1.6.1.jar\META-INF\
-
-Copyright 2001-2005 (C) MetaStuff, Ltd. All Rights Reserved.
-
-Redistribution and use of this software and associated documentation
-("Software"), with or without modification, are permitted provided
-that the following conditions are met:
-
-1. Redistributions of source code must retain copyright
-   statements and notices.  Redistributions must also contain a
-   copy of this document.
- 
-2. Redistributions in binary form must reproduce the
-   above copyright notice, this list of conditions and the
-   following disclaimer in the documentation and/or other
-   materials provided with the distribution.
- 
-3. The name "DOM4J" must not be used to endorse or promote
-   products derived from this Software without prior written
-   permission of MetaStuff, Ltd.  For written permission,
-   please contact dom4j-info@metastuff.com.
- 
-4. Products derived from this Software may not be called "DOM4J"
-   nor may "DOM4J" appear in their names without prior written
-   permission of MetaStuff, Ltd. DOM4J is a registered
-   trademark of MetaStuff, Ltd.
- 
-5. Due credit should be given to the DOM4J Project - 
-   http://www.dom4j.org
- 
-THIS SOFTWARE IS PROVIDED BY METASTUFF, LTD. AND CONTRIBUTORS
-``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT
-NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
-FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL
-METASTUFF, LTD. OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
-INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
-(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
-HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
-STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
-ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+This software is distributed under the terms of the FSF Lesser Gnu Public License (see lgpl.txt).
+
+
+
+
+
+This product includes software developed by the Apache Software 
+
+Foundation (http://www.apache.org/)
+
+
+
+ADDITIONAL LICENSE INFORMATION:
+
+
+
+
+
+>jta.jar 
+
+>jdbc2_0-stdext.jar
+
+>jaas.jar
+
+>connector.jar
+
+> \hibernate-3.2.4.ga.tar.gz\hibernate-3.2.4.ga.tar\hibernate-3.2\lib\jta.licence.txt
+
+  
+
+Sun Microsystems, Inc. 
+
+Binary Code License Agreement
+
+
+
+READ THE TERMS OF THIS AGREEMENT AND ANY PROVIDED SUPPLEMENTAL LICENSE TERMS (COLLECTIVELY "AGREEMENT") CAREFULLY BEFORE OPENING THE SOFTWARE MEDIA PACKAGE.  BY OPENING THE SOFTWARE MEDIA PACKAGE, YOU AGREE TO THE TERMS OF THIS AGREEMENT.  IF YOU ARE ACCESSING THE SOFTWARE ELECTRONICALLY, INDICATE YOUR ACCEPTANCE OF THESE TERMS BY SELECTING THE "ACCEPT" BUTTON AT THE END OF THIS AGREEMENT.  IF YOU DO NOT AGREE TO ALL THESE TERMS, PROMPTLY RETURN THE UNUSED SOFTWARE TO YOUR PLACE OF PURCHASE FOR A REFUND OR, IF THE SOFTWARE IS ACCESSED ELECTRONICALLY, SELECT THE "DECLINE" BUTTON AT THE END OF THIS AGREEMENT. 
+
+
+
+1.  LICENSE TO USE.  Sun grants you a non-exclusive and non-transferable license for the internal use only of the accompanying software and documentation and any error corrections provided by Sun (collectively "Software"), by the number of users and the class of computer hardware for which the corresponding fee has been paid. 
+
+
+
+2.  RESTRICTIONS.  Software is confidential and copyrighted. Title to Software and all associated intellectual property rights is retained by Sun and/or its licensors.  Except as specifically authorized in any Supplemental License Terms, you may not make copies of Software, other than a single copy of Software for archival purposes.  Unless enforcement is prohibited by applicable law, you may not modify, decompile, or reverse engineer Software.  Licensee acknowledges that Licensed Software is not designed or intended for use in the design, construction, operation or maintenance of any nuclear facility. Sun Microsystems, Inc. disclaims any express or implied warranty of fitness for such uses.   No right, title or interest in or to any trademark, service mark, logo or trade name of Sun or its licensors is granted under this Agreement. 
+
+
+
+3. LIMITED WARRANTY.  Sun warrants to you that for a period of ninety (90) days from the date of purchase, as evidenced by a copy of the receipt, the media on which Software is furnished (if any) will be free of defects in materials and workmanship under normal use.  Except for the foregoing, Software is provided "AS IS".  Your exclusive remedy and Sun's entire liability under this limited warranty will be at Sun's option to replace Software media or refund the fee paid for Software. 
+
+
+
+4.  DISCLAIMER OF WARRANTY.  UNLESS SPECIFIED IN THIS AGREEMENT, ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT ARE DISCLAIMED, EXCEPT TO THE EXTENT THAT THESE DISCLAIMERS ARE HELD TO BE LEGALLY INVALID. 
+
+
+
+5.  LIMITATION OF LIABILITY.  TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT WILL SUN OR ITS LICENSORS BE LIABLE FOR ANY LOST REVENUE, PROFIT OR DATA, OR FOR SPECIAL, INDIRECT, CONSEQUENTIAL, INCIDENTAL OR PUNITIVE DAMAGES, HOWEVER CAUSED REGARDLESS OF THE THEORY OF LIABILITY, ARISING OUT OF OR RELATED TO THE USE OF OR INABILITY TO USE SOFTWARE, EVEN IF SUN HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  In no event will Sun's liability to you, whether in contract, tort (including negligence), or otherwise, exceed the amount paid by you for Software under this Agreement.  The foregoing limitations will apply even if the above stated warranty fails of its essential purpose. 
+
+
+
+6.  Termination.  This Agreement is effective until terminated.  You may terminate this Agreement at any time by destroying all copies of Software.  This Agreement will terminate immediately without notice from Sun if you fail to comply with any provision of this Agreement.  Upon Termination, you must destroy all copies of Software. 
+
+
+
+7. Export Regulations. All Software and technical data delivered under this Agreement are subject to US export control laws and may be subject to export or import regulations in other countries.  You agree to comply strictly with all such laws and regulations and acknowledge that you have the responsibility to obtain such licenses to export, re-export, or import as may be required after delivery to you. 
+
+
+
+8.   U.S. Government Restricted Rights.  If Software is being acquired by or on behalf of the U.S. Government or by a U.S. Government prime contractor or subcontractor (at any tier), then the Government's rights in Software and accompanying documentation will be only as set forth in this Agreement; this is in accordance with 48 CFR 227.7201 through 227.7202-4 (for Department of Defense (DOD) acquisitions) and with 48 CFR 2.101 and 12.212 (for non-DOD acquisitions). 
+
+
+
+9.  Governing Law.  Any action related to this Agreement will be governed by California law and controlling U.S. federal law.  No choice of law rules of any jurisdiction will apply. 
+
+
+
+10.  Severability. If any provision of this Agreement is held to be unenforceable, this Agreement will remain in effect with the provision omitted, unless omission would frustrate the intent of the parties, in which case this Agreement will immediately terminate. 
+
+
+
+11.  Integration.  This Agreement is the entire agreement between you and Sun relating to its subject matter.  It supersedes all prior or contemporaneous oral or written communications, proposals, representations and warranties and prevails over any conflicting or additional terms of any quote, order, acknowledgment, or other communication between the parties relating to its subject matter during the term of this Agreement.  No modification of this Agreement will be binding, unless in writing and signed by an authorized representative of each party. 
+
+
+
+JAVATM INTERFACE CLASSES 
+
+JAVA TRANSACTION API (JTA), VERSION 1.0.1B, MAINTENANCE RELEASE
+
+SUPPLEMENTAL LICENSE TERMS
+
+
+
+These supplemental license terms ("Supplemental Terms") add to or modify the terms of the Binary Code License Agreement (collectively, the "Agreement"). Capitalized terms not defined in these Supplemental Terms shall have the same meanings ascribed to them in the Agreement. These Supplemental Terms shall supersede any inconsistent or conflicting terms in the Agreement, or in any license contained within the Software. 
+
+
+
+1. Software Internal Use and Development License Grant. Subject to the terms and conditions of this Agreement, including, but not limited to Section 3 (Java Technology Restrictions) of these Supplemental Terms, Sun grants you a non-exclusive, non-transferable, limited license to reproduce internally and use internally the binary form of the Software, complete and unmodified, for the sole purpose of designing, developing and testing your Java applets and applications ("Programs"). 
+
+
+
+2. License to Distribute Software.  In addition to the license granted in Section 1 (Software Internal Use and Development License Grant) of these Supplemental Terms, subject to the terms and conditions of this Agreement, including but not limited to Section 3 (Java Technology Restrictions), Sun grants you a non-exclusive, non-transferable, limited license to reproduce and distribute the Software in binary form only, provided that you (i) distribute the Software complete and unmodified and only bundled as part of your Programs, (ii) do not distribute additional software intended to replace any component(s) of the Software, (iii) do not remove or alter any proprietary legends or notices contained in the Software, (iv) only distribute the Software subject to a license agreement that protects Sun's interests consistent with the terms contained in this Agreement, and (v) agree to defend and indemnify Sun and its licensors from and against any damages, costs, liabilities, settlement amounts and/or expenses (including attorneys' fees) incurred in connection with any claim, lawsuit or action by any third party that arises or results from the use or distribution of any and all Programs and/or Software. 
+
+
+
+3. Java Technology Restrictions. You may not modify the Java Platform Interface ("JPI", identified as classes contained within the "java" package or any subpackages of the "java" package), by creating additional classes within the JPI or otherwise causing the addition to or modification of the classes in the JPI.  In the event that you create an additional class and associated API(s) which (i) extends the functionality of the Java Platform, and (ii) is exposed to third party software developers for the purpose of developing additional software which invokes such additional API, you must promptly publish broadly an accurate specification for such API for free use by all developers. You may not create, or authorize your licensees to create additional classes, interfaces, or subpackages that are in any way identified as "java", "javax", "sun" or similar convention as specified by Sun in any naming convention designation. 
+
+
+
+4. Trademarks and Logos. You acknowledge and agree as between you and Sun that Sun owns the SUN, SOLARIS, JAVA, JINI, FORTE, and iPLANET trademarks and all SUN, SOLARIS, JAVA, JINI, FORTE, and iPLANET-related trademarks, service marks, logos and other brand designations ("Sun Marks"), and you agree to comply with the Sun Trademark and Logo Usage Requirements currently located at http://www.sun.com/policies/trademarks. Any use you make of the Sun Marks inures to Sun's benefit. 
+
+
+
+5. Source Code. Software may contain source code that is provided solely for reference purposes pursuant to the terms of this Agreement.  Source code may not be redistributed unless expressly provided for in this Agreement. 
+
+
+
+6. Termination for Infringement.  Either party may terminate this Agreement immediately should any Software become, or in either party's opinion be likely to become, the subject of a claim of infringement of any intellectual property right. 
+
+
+
+For inquiries please contact: Sun Microsystems, Inc. 4150 Network Circle, Santa Clara, California 95054. 
+
+
+
+
+
+
+
+> \hibernate-3.2.4.ga.tar.gz\hibernate-3.2.4.ga.tar\hibernate-3.2\lib\apache.license.txt
+
+
+
+====================================================================
+
+
+
+The Apache Software License, Version 1.1
+
+
+
+Copyright (c) 1999-2001 The Apache Software Foundation.  All rights
+
+reserved.
+
+
+
+Redistribution and use in source and binary forms, with or without
+
+modification, are permitted provided that the following conditions
+
+are met:
+
+
+
+1. Redistributions of source code must retain the above copyright
+
+notice, this list of conditions and the following disclaimer.
+
+
+
+2. Redistributions in binary form must reproduce the above copyright
+
+notice, this list of conditions and the following disclaimer in
+
+the documentation and/or other materials provided with the
+
+distribution.
+
+
+
+3. The end-user documentation included with the redistribution, if
+
+any, must include the following acknowlegement:
+
+"This product includes software developed by the
+
+Apache Software Foundation (http://www.apache.org/)."
+
+Alternately, this acknowlegement may appear in the software itself,
+
+if and wherever such third-party acknowlegements normally appear.
+
+
+
+4. The names "The Jakarta Project", "Commons", and "Apache Software
+
+Foundation" must not be used to endorse or promote products derived
+
+from this software without prior written permission. For written
+
+permission, please contact apache@apache.org.
+
+
+
+5. Products derived from this software may not be called "Apache"
+
+nor may "Apache" appear in their names without prior written
+
+permission of the Apache Group.
+
+
+
+THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED
+
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+
+OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+
+DISCLAIMED.  IN NO EVENT SHALL THE APACHE SOFTWARE FOUNDATION OR
+
+ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF
+
+USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
+
+OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+
+SUCH DAMAGE.
+
+
+
+
+
+> \hibernate-3.2.4.ga.tar.gz\hibernate-3.2.4.ga.tar\hibernate-3.2\lib\apache.license-2.0.txt
+
+
+
+License: Apache: 2.0
+
+
+
+> \hibernate-3.2.4.ga.tar.gz\hibernate-3.2.4.ga.tar\hibernate-3.2\lib\antlr-2.7.6.jar 
+
+
+
+SOFTWARE RIGHTS
+
+$Id: antlr.license.txt 3890 2004-06-03 16:31:32Z steveebersole $
+
+
+
+ANTLR 1989-2003 Developed by jGuru.com, 
+
+http://www.ANTLR.org  and http://www.jGuru.com
+
+
+
+We reserve no legal rights to the ANTLR--it is fully in the
+
+public domain. An individual or company may do whatever
+
+they wish with source code distributed with ANTLR or the
+
+code generated by ANTLR, including the incorporation of
+
+ANTLR, or its output, into commerical software.
+
+
+
+We encourage users to develop software with ANTLR. However,
+
+we do ask that credit is given to us for developing
+
+ANTLR. By "credit", we mean that if you use ANTLR or
+
+incorporate any source code into one of your programs
+
+(commercial product, research project, or otherwise) that
+
+you acknowledge this fact somewhere in the documentation,
+
+research report, etc... If you like ANTLR and have
+
+developed a nice tool with the output, please mention that
+
+you developed it using ANTLR. In addition, we ask that the
+
+headers remain intact in our source code. As long as these
+
+guidelines are kept, we expect to continue enhancing this
+
+system and expect to make other tools available as they are
+
+completed.
+
+
+
+The primary ANTLR guy:
+
+
+
+Terence Parr
+
+http://www.jGuru.com
+
+parrt@jguru.com
+
+
+
+
+
+>hibernate-3.2.4.ga.tar.gz\hibernate-3.2.4.ga.tar\hibernate-3.2\lib\xml-apis.jar\license\
+
+
+
+This W3C work (including software, documents, or other related
+
+items) is being provided by the copyright holders under the
+
+following license. By obtaining, using and/or copying this work,
+
+you (the licensee) agree that you have read, understood, and will
+
+comply with the following terms and conditions:
+
+Permission to use, copy, modify, and distribute this software
+
+and its documentation, with or without modification, for any
+
+purpose and without fee or royalty is hereby granted, provided that
+
+you include the following on ALL copies of the software and
+
+documentation or portions thereof, including modifications, that
+
+you make:
+
+
+
+The full text of this NOTICE in a location viewable to users of
+
+the redistributed or derivative work.
+
+
+
+Any pre-existing intellectual property disclaimers, notices, or
+
+terms and conditions. If none exist, a short notice of the
+
+following form (hypertext is preferred, text is permitted) should
+
+be used within the body of any redistributed or derivative code:
+
+"Copyright  [$date-of-software] World Wide Web Consortium, (Massachusetts Institute of
+
+Technology, Institut National de
+
+Recherche en Informatique et en Automatique, Keio University). All Rights Reserved.
+
+http://www.w3.org/Consortium/Legal/"
+
+
+
+Notice of any changes or modifications to the W3C files,
+
+including the date changes were made. (We recommend you provide 
+
+URIs to the location from which the code is derived.)
+
+
+
+THIS SOFTWARE AND DOCUMENTATION IS PROVIDED "AS IS," AND
+
+COPYRIGHT HOLDERS MAKE NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR
+
+IMPLIED, INCLUDING BUT NOT LIMITED TO, WARRANTIES OF
+
+MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE
+
+USE OF THE SOFTWARE OR DOCUMENTATION WILL NOT INFRINGE ANY THIRD
+
+PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.
+
+COPYRIGHT HOLDERS WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT,
+
+SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF ANY USE OF THE
+
+SOFTWARE OR DOCUMENTATION.
+
+
+
+The name and trademarks of copyright holders may NOT be used in
+
+advertising or publicity pertaining to the software without
+
+specific, written prior permission. Title to copyright in this
+
+software and any associated documentation will at all times remain
+
+with copyright holders.
+
+
+
+
+
+> hibernate-3.2.4.ga.tar.gz\hibernate-3.2.4.ga.tar\hibernate-3.2\lib\dom4j-1.6.1.jar\META-INF\
+
+
+
+Copyright 2001-2005 (C) MetaStuff, Ltd. All Rights Reserved.
+
+
+
+Redistribution and use of this software and associated documentation
+
+("Software"), with or without modification, are permitted provided
+
+that the following conditions are met:
+
+
+
+1. Redistributions of source code must retain copyright
+
+   statements and notices.  Redistributions must also contain a
+
+   copy of this document.
+
+ 
+
+2. Redistributions in binary form must reproduce the
+
+   above copyright notice, this list of conditions and the
+
+   following disclaimer in the documentation and/or other
+
+   materials provided with the distribution.
+
+ 
+
+3. The name "DOM4J" must not be used to endorse or promote
+
+   products derived from this Software without prior written
+
+   permission of MetaStuff, Ltd.  For written permission,
+
+   please contact dom4j-info@metastuff.com.
+
+ 
+
+4. Products derived from this Software may not be called "DOM4J"
+
+   nor may "DOM4J" appear in their names without prior written
+
+   permission of MetaStuff, Ltd. DOM4J is a registered
+
+   trademark of MetaStuff, Ltd.
+
+ 
+
+5. Due credit should be given to the DOM4J Project - 
+
+   http://www.dom4j.org
+
+ 
+
+THIS SOFTWARE IS PROVIDED BY METASTUFF, LTD. AND CONTRIBUTORS
+
+``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT
+
+NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
+
+FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL
+
+METASTUFF, LTD. OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+
+STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+
 OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
@@ -335,21 +612,36 @@ License : LGPL 2.1
 
 >>> jtds-1.2.1
 
-jTDS JDBC Driver for Microsoft SQL Server and Sybase
-Copyright (C) 2004 The jTDS Project
-
-This library is free software; you can redistribute it and/or
-modify it under the terms of the GNU Lesser General Public
-License as published by the Free Software Foundation; either
-version 2.1 of the License, or (at your option) any later version.
-
-This library is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-Lesser General Public License for more details.
-
-You should have received a copy of the GNU Lesser General Public
-License along with this library; if not, write to the Free Software
+jTDS JDBC Driver for Microsoft SQL Server and Sybase
+
+Copyright (C) 2004 The jTDS Project
+
+
+
+This library is free software; you can redistribute it and/or
+
+modify it under the terms of the GNU Lesser General Public
+
+License as published by the Free Software Foundation; either
+
+version 2.1 of the License, or (at your option) any later version.
+
+
+
+This library is distributed in the hope that it will be useful,
+
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+
+Lesser General Public License for more details.
+
+
+
+You should have received a copy of the GNU Lesser General Public
+
+License along with this library; if not, write to the Free Software
+
 Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 
 
